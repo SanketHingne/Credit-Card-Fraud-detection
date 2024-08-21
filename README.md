@@ -25,7 +25,9 @@ Installation
 Clone the repository:
 bash
 Copy code
+'''bash
 git clone https://github.com/your-username/credit-card-fraud-detection.git
+
 Navigate to the project directory:
 bash
 Copy code
