@@ -23,7 +23,7 @@ Required Python libraries: pyspark, matplotlib, tabulate
 
 ### Installation
 Clone the repository:
-1. git clone https://github.com/your-username/credit-card-fraud-detection.git
+1. bash git clone https://github.com/your-username/credit-card-fraud-detection.git
 
 Navigate to the project directory:
 bash
