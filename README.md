@@ -15,40 +15,39 @@ The script performs the following tasks:
 9. Assesses model performance based on accuracy, precision, recall, and F1 score.
 10. Results Visualization: Presents model performance metrics in tables and plots.
 
-### Getting Started
+## Getting Started
 Prerequisites
 Apache Spark (with PySpark)
 Python 3.x
 Required Python libraries: pyspark, matplotlib, tabulate
 
-### Installation
+## Installation
 1. Clone the repository:
 
    ```shell script
    git clone https://github.com/your-username/credit-card-fraud-detection.git
    ```
 
-Navigate to the project directory:
-bash
-cd credit-card-fraud-detection
-Install the required Python packages:
-bash
-Copy code
-pip install pyspark matplotlib tabulate
-Running the Script
-Ensure your data file (creditcard.csv) is located at C:/Users/hingn/Videos/CFD/creditcard.csv.
+2. Navigate to the project directory:
+   ```shell script
+   cd credit-card-fraud-detection
+   ```
+3. Install the required Python packages:
+   ```shell script
+   pip install pyspark matplotlib tabulate
+   ```
+## Running the Script
+Ensure your data file (creditcard.csv) is located correctly in the script.
 Run the script:
-bash
-Copy code
+```shell script
 spark-submit credit_card_fraud_detection.py
-Results
-The script will output the performance metrics for each model to the console.
-Visualizations of model performance will be generated and saved in the project directory.
-File Structure
+```
+## Results
+1. The script will output the performance metrics for each model to the console.
+2. Visualizations of model performance will be generated and saved in the project directory.
+
+## File Structure
 credit_card_fraud_detection.py: The main script for credit card fraud detection.
-README.md: This README file.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements
 Apache Spark
