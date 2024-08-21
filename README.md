@@ -22,10 +22,11 @@ Python 3.x
 Required Python libraries: pyspark, matplotlib, tabulate
 
 ### Installation
-Clone the repository:
-1. '''bash script
+1. Clone the repository:
+
+   ```shell script
    git clone https://github.com/your-username/credit-card-fraud-detection.git
-   '''
+   ```
 
 Navigate to the project directory:
 bash
