@@ -25,7 +25,7 @@ Required Python libraries: pyspark, matplotlib, tabulate
 1. Clone the repository:
 
    ```shell script
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   git clone https://github.com/SanketHingne/credit-card-fraud-detection.git
    ```
 
 2. Navigate to the project directory:
@@ -49,7 +49,7 @@ spark-submit credit_card_fraud_detection.py
 ## File Structure
 credit_card_fraud_detection.py: The main script for credit card fraud detection.
 
-Acknowledgements
-Apache Spark
-PySpark Documentation
-Matplotlib Documentation
+## Acknowledgements
+1. Apache Spark
+2. PySpark Documentation
+3. Matplotlib Documentation
