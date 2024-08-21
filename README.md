@@ -21,6 +21,9 @@ Apache Spark (with PySpark)
 Python 3.x
 Required Python libraries: pyspark, matplotlib, tabulate
 
+## Link to Dataset
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Installation
 1. Clone the repository:
 
